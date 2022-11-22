@@ -1,0 +1,2 @@
+curl -H "Content-Type: application/json" -X POST -d '{"book_id":"4", "title":"Animal Farm", "author":"George Orwel", "is_sold":"No"}' http://3.95.252.72/books
+curl -H "Content-Type: application/json" -X DELETE http://34.238.246.171/books/4curl -H "Content-Type: application/json" -X DELETE http://34.238.246.171/books/4
